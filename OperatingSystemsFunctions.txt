@@ -7,3 +7,11 @@ Operating System #2: MacOS (or OS X, previously)
   For reference, this is compared to the 80% that Windows has. It likely is because the high price point of Apple hardware is unafforadble or
   unfeasible for most of the world. It certainly seems to be a status symbol in the United States, and one must concede that the user interface
   is incredibly friendly. 
+
+Operating System #3: Linux 
+  A popular choice for servers, Linux is one of the most customizable operating systems available today. It is so easily modified because it is free, and open-source. Essentially,
+  since it is not proprietary software, people can do whatever they need with it tailored to their own specific needs. It is the least popular operating system in the world,   
+  having only 2% of user's operating systems around the world. 
+  
+  
+Information in this file gleaned from https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/
