@@ -1,3 +1,9 @@
-Operating System #1: 
+Operating System #1: Microsoft Windows
   Microsoft windows is the most popular operating system in the world. It has been a powerhouse operating system since the 1980's. 
   The current version of Microsoft Windows is Windows 10. This update made the whole operating system much more friendly to be run on tablets and mobile phones. 
+
+Operating System #2: MacOS (or OS X, previously) 
+  MacOS is, by usage numbers, one of the least popular operating systems in the world, accounting for less than 10% of user's operating systems.
+  For reference, this is compared to the 80% that Windows has. It likely is because the high price point of Apple hardware is unafforadble or
+  unfeasible for most of the world. It certainly seems to be a status symbol in the United States, and one must concede that the user interface
+  is incredibly friendly. 
